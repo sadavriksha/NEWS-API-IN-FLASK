@@ -1,0 +1,1 @@
+C:\python39\python.exe "C:\Users\sada vriksha\Desktop\Videos\WORLD_News\World-News\app.py"
